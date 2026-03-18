@@ -24,9 +24,9 @@ Curated awesome lists for travelers, digital nomads, and global explorers – co
 
 These meta-level lists cover broad travel themes and lifestyles like digital nomadism, solo travel, and travel hacking.
 
-- **[Awesome Digital Nomads](https://github.com/brandontravel/awesome-digital-nomads):** A curated list of awesome resources, tools, communities, and tips for digital nomads who want to embrace a location-independent lifestyle.
-- **[Awesome Travel Hacking](https://github.com/brandontravel/awesome-travel-hacking):** A curated list of awesome resources, tools, and strategies for travel hacking, designed to help you save money, earn points and miles, and travel the world for less.
-- **[Awesome Solo Traveler](https://github.com/brandontravel/awesome-solo-traveler):** A curated list of awesome resources, tools, blogs, communities, and platforms for solo travelers.
+- **[Awesome Digital Nomads](https://github.com/brandonhimpfen/awesome-digital-nomads):** A curated list of awesome resources, tools, communities, and tips for digital nomads who want to embrace a location-independent lifestyle.
+- **[Awesome Travel Hacking](https://github.com/brandonhimpfen/awesome-travel-hacking):** A curated list of awesome resources, tools, and strategies for travel hacking, designed to help you save money, earn points and miles, and travel the world for less.
+- **[Awesome Solo Traveler](https://github.com/brandonhimpfen/awesome-solo-traveler):** A curated list of awesome resources, tools, blogs, communities, and platforms for solo travelers.
   
 ## Countries
 
@@ -35,7 +35,7 @@ This section contains resources specific to different countries, helping you nav
 - **[Awesome Argentina Travel](#)** – A curated list of travel guides, tips, and digital nomad resources for Argentina.
 - **[Awesome Australia Travel](#)** – A curated list of travel resources, working holiday info, and regional guides for Australia.
 - **[Awesome Brazil Travel](#)** – A curated list of tools, guides, and cultural resources for traveling through Brazil.
-- **[Awesome Canada Travel](https://github.com/brandontravel/awesome-canada-travel)** – A curated list of travel resources, safety tips, and nomad-friendly services for Canada.
+- **[Awesome Canada Travel](https://github.com/brandonhimpfen/awesome-canada-travel)** – A curated list of travel resources, safety tips, and nomad-friendly services for Canada.
 - **[Awesome Chile Travel](#)** – A curated list of travel guides, visa info, and outdoor adventure resources for Chile.
 - **[Awesome China Travel](#)** – A curated list of tools and guides for navigating China’s culture, language, and infrastructure.
 - **[Awesome Costa Rica Travel](#)** – A curated list of eco-tourism guides, digital nomad tools, and travel resources for Costa Rica.
