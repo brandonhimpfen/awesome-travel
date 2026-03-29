@@ -1,6 +1,12 @@
 # Awesome Travel [![Awesome Travel](https://srv-cdn.himpfen.io/badges/awesome-travel/awesometravel-flat.svg)](https://github.com/brandonhimpfen/awesome-travel)
 
+[![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/brandonhimpfen) &nbsp; 
+[![PayPal](https://srv-cdn.himpfen.io/badges/paypal/paypal-flat.svg)](https://paypal.me/brandonhimpfen) &nbsp; 
+[![Stripe](https://srv-cdn.himpfen.io/badges/stripe/stripe-flat.svg)](https://tinyurl.com/e8ymxdw3)
+
 Curated awesome lists for travelers, digital nomads, and global explorers – covering destinations, languages, immigration, tools, and more.
+
+---
 
 🛠️ Status: Actively maintained  
 🎯 Focus: Solo travel, digital nomadism, global mobility, travel safety, and destination resources.
@@ -10,7 +16,7 @@ Curated awesome lists for travelers, digital nomads, and global explorers – co
 > • **[Awesome Lists](https://github.com/brandonhimpfen/awesome-lists)** — discover the best tools & resources  
 > • **[Awesome Learn](https://github.com/brandonhimpfen/awesome-learn)** — learn topics step-by-step with clarity and guidance
 
-[![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/brandonhimpfen) &nbsp; [![PayPal](https://srv-cdn.himpfen.io/badges/paypal/paypal-flat.svg)](https://paypal.me/brandonhimpfen) &nbsp; [![Stripe](https://srv-cdn.himpfen.io/badges/stripe/stripe-flat.svg)](https://tinyurl.com/e8ymxdw3)
+---
 
 - [Travel Meta Lists](#-travel-meta-lists)
 - [Countries](#-countries)
