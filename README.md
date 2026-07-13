@@ -205,4 +205,5 @@ Helpful immigration guides for safe and popular travel destinations. Includes vi
 ## Miscellaneous Resources
 
 Here are various tools, apps, and websites to make your travels easier.
+- **[Wander China Planner](https://github.com/daligao/wander-china)** – Free open-source drag-and-drop itinerary builder for 31 Chinese cities. Verified opening hours, ticket prices, metro routes and budget calculator. No Chinese needed. ([Live demo](https://ordinarymantrying.com/tools/wander-china/planner.html))
 
