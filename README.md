@@ -206,3 +206,4 @@ Helpful immigration guides for safe and popular travel destinations. Includes vi
 
 Here are various tools, apps, and websites to make your travels easier.
 
+- **[YouChina](https://you-china.com/en/checklist)** – Free China entry-readiness checklists covering transit, payments, connectivity, airports, and essential apps.
