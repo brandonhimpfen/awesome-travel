@@ -206,3 +206,5 @@ Helpful immigration guides for safe and popular travel destinations. Includes vi
 
 Here are various tools, apps, and websites to make your travels easier.
 
+- **[Travvy](https://gettravvy.com/download)** – AI travel planner for iOS and Android with personalized trips, self-guided audio tours, offline access, and sharing.
+
