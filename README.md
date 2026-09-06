@@ -206,3 +206,5 @@ Helpful immigration guides for safe and popular travel destinations. Includes vi
 
 Here are various tools, apps, and websites to make your travels easier.
 
+- **[Travellagio](https://travellagio.com/)** – A flight price comparison tool showing live fares across 44 destinations at once from your home airport, plus visa requirements by passport and daily budget estimates, for travelers deciding where to go rather than searching one fixed route.
+
