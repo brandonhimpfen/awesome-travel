@@ -206,3 +206,5 @@ Helpful immigration guides for safe and popular travel destinations. Includes vi
 
 Here are various tools, apps, and websites to make your travels easier.
 
+- **[Waitwise](https://masondaxton.github.io/waitwise/)** – Free official-path prep guides for scarce passport and camping appointments (no scrapers).
+
