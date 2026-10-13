@@ -207,3 +207,5 @@ Helpful immigration guides for safe and popular travel destinations. Includes vi
 
 Here are various tools, apps, and websites to make your travels easier.
 
+- **[CheckInAge](https://checkinage.com/)** – Free lookup of published minimum check-in ages (18+/21+) for 1,000+ US hotels, with links to each hotel’s own policy.
+
