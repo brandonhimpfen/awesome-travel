@@ -206,4 +206,4 @@ Helpful immigration guides for safe and popular travel destinations. Includes vi
 ## Miscellaneous Resources
 
 Here are various tools, apps, and websites to make your travels easier.
-
+- [China Travel Check](https://gochina.taoliapp.com/) – Verified English field manual for independent travel in mainland China (payments, eSIM, visas, trains).
