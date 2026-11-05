@@ -63,30 +63,30 @@ This section contains resources specific to different countries, helping you nav
 - **[Awesome Italy Travel](https://github.com/brandonhimpfen/awesome-italy-travel)** – A curated list of cultural landmarks, regional guides, and solo travel tools for Italy.
 - **[Awesome Japan Travel](https://github.com/brandonhimpfen/awesome-japan-travel)** – A curated list of tools, etiquette tips, and region-specific guides for Japan.
 - **[Awesome Kenya Travel](https://github.com/brandonhimpfen/awesome-kenya-travel)** – A curated list of safari resources, cultural guides, and solo travel safety for Kenya.
-- **[Awesome Malaysia Travel]()** – A curated list of multicultural travel resources, local tools, and city guides for Malaysia.
-- **[Awesome Mexico Travel]()** – A curated list of solo travel guides, cultural resources, and remote work tools for Mexico.
-- **[Awesome Morocco Travel]()** – A curated list of travel tools, city guides, and nomad-friendly resources for Morocco.
-- **[Awesome Netherlands Travel]()** – A curated list of cycling routes, city resources, and travel planning tools for the Netherlands.
-- **[Awesome New Zealand Travel]()** – A curated list of backpacker routes, solo travel tips, and regional guides for New Zealand.
-- **[Awesome Norway Travel]()** – A curated list of fjord travel guides, transport tools, and nomad tips for Norway.
-- **[Awesome Peru Travel]()** – A curated list of cultural insights, solo travel resources, and destination guides for Peru.
-- **[Awesome Philippines Travel]()** – A curated list of island-hopping tools, digital nomad hubs, and safety tips for the Philippines.
-- **[Awesome Poland Travel]()** – A curated list of city guides, historical landmarks, and travel tools for Poland.
-- **[Awesome Portugal Travel]()** – A curated list of travel tools, remote work resources, and local insights for Portugal.
-- **[Awesome Romania Travel]()** – A curated list of solo travel routes, heritage sites, and nomad-friendly tools for Romania.
-- **[Awesome Serbia Travel]()** – A curated list of Balkan travel guides, city insights, and nomad tools for Serbia.
-- **[Awesome Singapore Travel]()** – A curated list of efficient travel tools, urban insights, and cultural tips for Singapore.
-- **[Awesome South Africa Travel]()** – A curated list of travel safety resources, adventure guides, and city tools for South Africa.
-- **[Awesome South Korea Travel]()** – A curated list of local etiquette tips, city guides, and travel tech for South Korea.
-- **[Awesome Spain Travel]()** – A curated list of regional travel guides, solo tips, and food/culture resources for Spain.
-- **[Awesome Sweden Travel]()** – A curated list of sustainable travel tools, solo insights, and city resources for Sweden.
-- **[Awesome Switzerland Travel]()** – A curated list of scenic travel routes, rail tools, and nomad resources for Switzerland.
-- **[Awesome Thailand Travel]()** – A curated list of digital nomad guides, island tips, and budget travel tools for Thailand.
-- **[Awesome Turkey Travel]()** – A curated list of historical city guides, solo safety tips, and local travel tools for Turkey.
-- **[Awesome Ukraine Travel]()** – A curated list of regional travel resources, historical context, and cultural guides for Ukraine.
-- **[Awesome United Kingdom Travel]()** – A curated list of transportation tools, regional guides, and solo travel tips for the UK.
-- **[Awesome United States Travel]()** – A curated list of national park guides, city resources, and long-term travel tools for the US.
-- **[Awesome Vietnam Travel]()** – A curated list of backpacker tools, digital nomad cities, and travel safety tips for Vietnam.
+- **[Awesome Malaysia Travel](https://github.com/brandonhimpfen/awesome-malaysia-travel)** – A curated list of multicultural travel resources, local tools, and city guides for Malaysia.
+- **[Awesome Mexico Travel](https://github.com/brandonhimpfen/awesome-mexico-travel)** – A curated list of solo travel guides, cultural resources, and remote work tools for Mexico.
+- **[Awesome Morocco Travel](https://github.com/brandonhimpfen/awesome-morocco-travel)** – A curated list of travel tools, city guides, and nomad-friendly resources for Morocco.
+- **[Awesome Netherlands Travel](https://github.com/brandonhimpfen/awesome-netherlands-travel)** – A curated list of cycling routes, city resources, and travel planning tools for the Netherlands.
+- **[Awesome New Zealand Travel](https://github.com/brandonhimpfen/awesome-new-zealand-travel)** – A curated list of backpacker routes, solo travel tips, and regional guides for New Zealand.
+- **[Awesome Norway Travel](https://github.com/brandonhimpfen/awesome-norway-travel)** – A curated list of fjord travel guides, transport tools, and nomad tips for Norway.
+- **[Awesome Peru Travel](https://github.com/brandonhimpfen/awesome-peru-travel)** – A curated list of cultural insights, solo travel resources, and destination guides for Peru.
+- **[Awesome Philippines Travel](https://github.com/brandonhimpfen/awesome-philippines-travel)** – A curated list of island-hopping tools, digital nomad hubs, and safety tips for the Philippines.
+- **[Awesome Poland Travel](https://github.com/brandonhimpfen/awesome-poland-travel)** – A curated list of city guides, historical landmarks, and travel tools for Poland.
+- **[Awesome Portugal Travel](https://github.com/brandonhimpfen/awesome-portugal-travel)** – A curated list of travel tools, remote work resources, and local insights for Portugal.
+- **[Awesome Romania Travel](https://github.com/brandonhimpfen/awesome-romania-travel)** – A curated list of solo travel routes, heritage sites, and nomad-friendly tools for Romania.
+- **[Awesome Serbia Travel](https://github.com/brandonhimpfen/awesome-serbia-travel)** – A curated list of Balkan travel guides, city insights, and nomad tools for Serbia.
+- **[Awesome Singapore Travel](https://github.com/brandonhimpfen/awesome-singapore-travel)** – A curated list of efficient travel tools, urban insights, and cultural tips for Singapore.
+- **[Awesome South Africa Travel](https://github.com/brandonhimpfen/awesome-south-africa-travel)** – A curated list of travel safety resources, adventure guides, and city tools for South Africa.
+- **[Awesome South Korea Travel](https://github.com/brandonhimpfen/awesome-south-korea-travel)** – A curated list of local etiquette tips, city guides, and travel tech for South Korea.
+- **[Awesome Spain Travel](https://github.com/brandonhimpfen/awesome-spain-travel)** – A curated list of regional travel guides, solo tips, and food/culture resources for Spain.
+- **[Awesome Sweden Travel](https://github.com/brandonhimpfen/awesome-sweden-travel)** – A curated list of sustainable travel tools, solo insights, and city resources for Sweden.
+- **[Awesome Switzerland Travel](https://github.com/brandonhimpfen/awesome-switzerland-travel)** – A curated list of scenic travel routes, rail tools, and nomad resources for Switzerland.
+- **[Awesome Thailand Travel](https://github.com/brandonhimpfen/awesome-thailand-travel)** – A curated list of digital nomad guides, island tips, and budget travel tools for Thailand.
+- **[Awesome Turkey Travel](https://github.com/brandonhimpfen/awesome-turkey-travel)** – A curated list of historical city guides, solo safety tips, and local travel tools for Turkey.
+- **[Awesome Ukraine Travel](https://github.com/brandonhimpfen/awesome-ukraine-travel)** – A curated list of regional travel resources, historical context, and cultural guides for Ukraine.
+- **[Awesome United Kingdom Travel](https://github.com/brandonhimpfen/awesome-united-kingdom-travel)** – A curated list of transportation tools, regional guides, and solo travel tips for the UK.
+- **[Awesome United States Travel](https://github.com/brandonhimpfen/awesome-united-states-travel)** – A curated list of national park guides, city resources, and long-term travel tools for the US.
+- **[Awesome Vietnam Travel](https://github.com/brandonhimpfen/awesome-vietnam-travel)** – A curated list of backpacker tools, digital nomad cities, and travel safety tips for Vietnam.
 
 ## Popular Cities
 
